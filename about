@@ -3,15 +3,14 @@ window.SITE = {
   tagline: "Education recruitment that puts people first",
   primaryCTA: { label: "For Candidates", href: "candidates.html" },
   secondaryCTA: { label: "For Schools", href: "schools.html" },
-
   phonePrimary: "(000) 000-0000",
   email: "hello@yourcompany.com",
   locations: [
-    { city: "Katy / Houston, TX", line1: "Your office address line 1", line2: "Your office address line 2" }
+    { city: "Katy / Houston, TX", line1: "Your office address line 1", line2: "3038 Winchester ranch trail" }
   ],
   socials: {
-    linkedin: "#",
-    facebook: "#"
+    linkedin: "Inspiring Teachers",
+    facebook: "Inspiring Teachers"
   },
 
   // Homepage sections
